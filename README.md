@@ -1,4 +1,5 @@
-# nesy_window
+# A Window to the World of Neuro-Symbolic Artificial Intelligence: A Task-Directed Survey in the Black-Box Era
+## Submitted at IJCAI 25 - Survey Track
 This is a repository containing notes over the papers collected to write a survey on the world of Neuro-Symbolic (NeSy) approaches.
 
 ```sparql
