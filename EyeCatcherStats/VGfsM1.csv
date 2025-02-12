@@ -1,0 +1,16 @@
+paper,title,conference,year
+https://dblp.org/rec/conf/aaai/Werner24,Neuro-Symbolic Integration for Reasoning and Learning on Knowledge Graphs.,AAAI,2024
+https://dblp.org/rec/conf/iclr/WangHTKMM24,NeuroBack: Improving CDCL SAT Solving using Graph Neural Networks.,ICLR,2024
+https://dblp.org/rec/conf/aaai/XuanyuanBGML23,Global Concept-Based Interpretability for Graph Neural Networks via Neuron Analysis.,AAAI,2023
+https://dblp.org/rec/conf/acl/NandiKSM23,Simple Augmentations of Logical Rules for Neuro-Symbolic Knowledge Graph Completion.,ACL (2),2023
+https://dblp.org/rec/conf/emnlp/SinghG23,NeuSTIP: A Neuro-Symbolic Model for Link and Time Prediction in Temporal Knowledge Graphs.,EMNLP,2023
+https://dblp.org/rec/conf/nips/ChenCFHS23,Differentiable Neuro-Symbolic Reasoning on Large-Scale Knowledge Graphs.,NeurIPS,2023
+https://dblp.org/rec/conf/nips/LiSLROS23,"AMAG: Additive, Multiplicative and Adaptive Graph Neural Network For Forecasting Neuron Activity.",NeurIPS,2023
+https://dblp.org/rec/conf/nips/SaidBDSMCK23,NeuroGraph: Benchmarks for Graph Machine Learning in Brain Connectomics.,NeurIPS,2023
+https://dblp.org/rec/conf/icml/HuT22,Neuron Dependency Graphs: A Causal Abstraction of Neural Networks.,ICML,2022
+https://dblp.org/rec/conf/nips/PanZ0Y022,House of Cans: Covert Transmission of Internal Datasets via Capacity-Aware Neuron Steganography.,NeurIPS,2022
+https://dblp.org/rec/conf/nips/SalehiG22,PhysGNN: A Physics-Driven Graph Neural Network Based Model for Predicting Soft Tissue Deformation in Image-Guided Neurosurgery.,NeurIPS,2022
+https://dblp.org/rec/conf/aaai/BosselutBC21,Dynamic Neuro-Symbolic Knowledge Graph Construction for Zero-shot Commonsense Question Answering.,AAAI,2021
+https://dblp.org/rec/conf/nips/SongZB21,On the Cryptographic Hardness of Learning Single Periodic Neurons.,NeurIPS,2021
+https://dblp.org/rec/conf/ijcai/Gan0HZMP020,Multi-graph Fusion for Functional Neuroimaging Biomarker Detection.,IJCAI,2020
+https://dblp.org/rec/conf/iccv/BiCABA19,Graph-Based Object Classification for Neuromorphic Vision Sensing.,ICCV,2019

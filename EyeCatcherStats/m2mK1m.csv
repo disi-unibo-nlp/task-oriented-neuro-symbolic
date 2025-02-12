@@ -1,0 +1,163 @@
+paper,title,conference,year
+https://dblp.org/rec/conf/cvpr/Sueyoshi024,Predicated Diffusion: Predicate Logic-Based Attention Guidance for Text-to-Image Diffusion Models.,CVPR,2024
+https://dblp.org/rec/conf/aaai/PadalkarW024,NeSyFOLD: A Framework for Interpretable Image Classification.,AAAI,2024
+https://dblp.org/rec/conf/aaai/PatelGBY24,ConceptBed: Evaluating Concept Learning Abilities of Text-to-Image Diffusion Models.,AAAI,2024
+https://dblp.org/rec/conf/ijcai/SinhaXZ24,A Self-explaining Neural Architecture for Generalizable Concept Learning.,IJCAI,2024
+https://dblp.org/rec/conf/aaai/ReddyB24,NESTER: An Adaptive Neurosymbolic Method for Causal Effect Estimation.,AAAI,2024
+https://dblp.org/rec/conf/aaai/SchwindIKM24,BeliefFlow: A Framework for Logic-Based Belief Diffusion via Iterated Belief Change.,AAAI,2024
+https://dblp.org/rec/conf/aaai/TaoHD024,Deciphering Raw Data in Neuro-Symbolic Learning with Provable Guarantees.,AAAI,2024
+https://dblp.org/rec/conf/ijcai/Jana24,NeuroSymbolic LLM for Mathematical Reasoning and Software Engineering.,IJCAI,2024
+https://dblp.org/rec/conf/ijcai/GaoICW24,A differentiable first-order rule learner for inductive logic programming (Abstract Reprint).,IJCAI,2024
+https://dblp.org/rec/conf/aaai/Werner24,Neuro-Symbolic Integration for Reasoning and Learning on Knowledge Graphs.,AAAI,2024
+https://dblp.org/rec/conf/acl/Huang0QZCC24,Confidence is not Timeless: Modeling Temporal Validity for Rule-based Temporal Knowledge Graph Forecasting.,ACL (1),2024
+https://dblp.org/rec/conf/icml/Zheng0CWLTG24,ContPhy: Continuum Physical Concept Learning and Reasoning from Videos.,ICML,2024
+https://dblp.org/rec/conf/cvpr/SafaeeMPCM24,CLiC: Concept Learning in Context.,CVPR,2024
+https://dblp.org/rec/conf/icml/YangYLF024,Neuro-Symbolic Temporal Point Processes.,ICML,2024
+https://dblp.org/rec/conf/ijcai/Hecher0M024,Quantitative Claim-Centric Reasoning in Logic-Based Argumentation.,IJCAI,2024
+https://dblp.org/rec/conf/emnlp/0002WD24,TV-TREES: Multimodal Entailment Trees for Neuro-Symbolic Video Reasoning.,EMNLP,2024
+https://dblp.org/rec/conf/emnlp/ParuchuriGLHSA024,What Are the Odds? Language Models Are Capable of Probabilistic Reasoning.,EMNLP,2024
+https://dblp.org/rec/conf/icml/XingL024,Federated Neuro-Symbolic Learning.,ICML,2024
+https://dblp.org/rec/conf/icml/SteinNWN024,Towards Compositionality in Concept Learning.,ICML,2024
+https://dblp.org/rec/conf/iclr/ChenSLHG24,GENOME: Generative Neuro-Symbolic Visual Reasoning by Growing and Reusing Modules.,ICLR,2024
+https://dblp.org/rec/conf/iclr/LeeZW024,Language-Informed Visual Concept Learning.,ICLR,2024
+https://dblp.org/rec/conf/icml/MaeneDR24,On the Hardness of Probabilistic Neurosymbolic Learning.,ICML,2024
+https://dblp.org/rec/conf/icml/LuoZXY0L24,End-to-End Neuro-Symbolic Reinforcement Learning with Textual Explanations.,ICML,2024
+https://dblp.org/rec/conf/icml/KriekenMPV24,On the Independence Assumption in Neurosymbolic Learning.,ICML,2024
+https://dblp.org/rec/conf/iclr/SehgalGSC24,Neurosymbolic Grounding for Compositional World Models.,ICLR,2024
+https://dblp.org/rec/conf/iclr/XuWXHZWWCQC24,LogicMP: A Neuro-symbolic Approach for Encoding First-order Logic Constraints.,ICLR,2024
+https://dblp.org/rec/conf/icml/HuTYZ24,Case-Based or Rule-Based: How Do Transformers Do the Math?,ICML,2024
+https://dblp.org/rec/conf/icml/FangZH024,StackSight: Unveiling WebAssembly through Large Language Models and Neurosymbolic Chain-of-Thought Decompilation.,ICML,2024
+https://dblp.org/rec/conf/ijcai/WeirCD24,"NELLIE: A Neuro-Symbolic Inference Engine for Grounded, Compositional, and Explainable Reasoning.",IJCAI,2024
+https://dblp.org/rec/conf/aaai/000224,Learning Neuro-Symbolic Abstractions for Robot Planning and Learning.,AAAI,2024
+https://dblp.org/rec/conf/aaai/DongHWJGY024,Unveiling Implicit Deceptive Patterns in Multi-Modal Fake News via Neuro-Symbolic Reasoning.,AAAI,2024
+https://dblp.org/rec/conf/aaai/FangD0SCPW24,Large Language Models Are Neurosymbolic Reasoners.,AAAI,2024
+https://dblp.org/rec/conf/aaai/Marra24,From Statistical Relational to Neuro-Symbolic Artificial Intelligence.,AAAI,2024
+https://dblp.org/rec/conf/nips/KriekenTTHT23,A-NeSI: A Scalable Approximate Method for Probabilistic Neurosymbolic Inference.,NeurIPS,2023
+https://dblp.org/rec/conf/aaai/LinZLLL23,Actional Atomic-Concept Learning for Demystifying Vision-Language Navigation.,AAAI,2023
+https://dblp.org/rec/conf/ijcai/PryorDAAWG23,NeuPSL: Neural Probabilistic Soft Logic.,IJCAI,2023
+https://dblp.org/rec/conf/emnlp/0001ZBHMJLZZZW23,ART: rule bAsed futuRe-inference deducTion.,EMNLP,2023
+https://dblp.org/rec/conf/ijcai/Vasileiou0TKCM23,A Logic-based Explanation Generation Framework for Classical and Hybrid Planning Problems (Extended Abstract).,IJCAI,2023
+https://dblp.org/rec/conf/emnlp/AlyS023,QA-NatVer: Question Answering for Natural Logic-based Fact Verification.,EMNLP,2023
+https://dblp.org/rec/conf/emnlp/OlaussonGLZSTL23,LINC: A Neurosymbolic Approach for Logical Reasoning by Combining Language Models with First-Order Logic Provers.,EMNLP,2023
+https://dblp.org/rec/conf/aaai/DiPaolaMBADB23,An Introduction to Rule-Based Feature and Object Perception for Middle School Students.,AAAI,2023
+https://dblp.org/rec/conf/emnlp/SinghG23,NeuSTIP: A Neuro-Symbolic Model for Link and Time Prediction in Temporal Knowledge Graphs.,EMNLP,2023
+https://dblp.org/rec/conf/emnlp/SinghGGSGMMKGS23,Image Manipulation via Multi-Hop Instructions - A New Dataset and Weakly-Supervised Neuro-Symbolic Approach.,EMNLP,2023
+https://dblp.org/rec/conf/nips/LiHLY0CM023,Neuro-symbolic Learning Yielding Logical Constraints.,NeurIPS,2023
+https://dblp.org/rec/conf/aaai/Choi23,Probabilistic Reasoning and Learning for Trustworthy AI.,AAAI,2023
+https://dblp.org/rec/conf/iccv/0001XXMYLL23,Beyond Object Recognition: A New Benchmark towards Object Concept Learning.,ICCV,2023
+https://dblp.org/rec/conf/nips/MaeneR23,Soft-Unification in Deep Probabilistic Logic.,NeurIPS,2023
+https://dblp.org/rec/conf/iclr/CornelioSHH23,Learning where and when to reason in neuro-symbolic inference.,ICLR,2023
+https://dblp.org/rec/conf/icml/MarconatoBFCPT23,"Neuro-Symbolic Continual Learning: Knowledge, Reasoning Shortcuts and Concept Rehearsal.",ICML,2023
+https://dblp.org/rec/conf/nips/MarconatoTVP23,Not All Neuro-Symbolic Concepts Are Created Equal: Analysis and Mitigation of Reasoning Shortcuts.,NeurIPS,2023
+https://dblp.org/rec/conf/iclr/Li0C0CM023,Softened Symbol Grounding for Neuro-symbolic Systems.,ICLR,2023
+https://dblp.org/rec/conf/iclr/LuFZXWEW23,Neuro-Symbolic Procedural Planning with Commonsense Prompting.,ICLR,2023
+https://dblp.org/rec/conf/nips/Weng0J23,Decompose Novel into Known: Part Concept Learning For 3D Novel Class Discovery.,NeurIPS,2023
+https://dblp.org/rec/conf/iclr/OldenhofAMB23,Weakly Supervised Knowledge Transfer with Probabilistic Logical Reasoning for Object Detection.,ICLR,2023
+https://dblp.org/rec/conf/iclr/WuZNMFM23,Weakly Supervised Explainable Phrasal Reasoning with Neural Fuzzy Logic.,ICLR,2023
+https://dblp.org/rec/journals/jmlr/RudinS23,Globally-Consistent Rule-Based Summary-Explanations for Machine Learning Models: Application to Credit-Risk Evaluation.,J. Mach. Learn. Res.,2023
+https://dblp.org/rec/conf/aaai/AmadoPM23,Robust Neuro-Symbolic Goal and Plan Recognition.,AAAI,2023
+https://dblp.org/rec/conf/iclr/YangFKP23,LogicDP: Creating Labels for Graph Data via Inductive Logic Programming.,ICLR,2023
+https://dblp.org/rec/conf/icml/FeldsteinJT23,Parallel Neurosymbolic Integration with Concordia.,ICML,2023
+https://dblp.org/rec/conf/cvpr/HsuM023,NS3D: Neuro-Symbolic Grounding of 3D Objects and Relations.,CVPR,2023
+https://dblp.org/rec/conf/aaai/Ramos-GonzalezB23,Prototyping Logic-Based AI Services with LogicUS.,AAAI,2023
+https://dblp.org/rec/conf/ijcai/YangMRR23,Safe Reinforcement Learning via Probabilistic Logic Shields.,IJCAI,2023
+https://dblp.org/rec/conf/ijcai/Lorini23,A Rule-Based Modal View of Causal Reasoning.,IJCAI,2023
+https://dblp.org/rec/conf/ijcai/LanzingerSG23,MV-Datalog+/-: Effective Rule-based Reasoning with Uncertain Observations (Extended Abstract).,IJCAI,2023
+https://dblp.org/rec/conf/ijcai/Kouvaros23,Towards Formal Verification of Neuro-symbolic Multi-agent Systems.,IJCAI,2023
+https://dblp.org/rec/conf/ijcai/YuanZX0LS023,Sequential Recommendation with Probabilistic Logical Reasoning.,IJCAI,2023
+https://dblp.org/rec/conf/aaai/TranG23,Neurosymbolic Reasoning and Learning with Restricted Boltzmann Machines.,AAAI,2023
+https://dblp.org/rec/conf/ijcai/EiterGHO23,A Logic-based Approach to Contrastive Explainability for Neurosymbolic Visual Question Answering.,IJCAI,2023
+https://dblp.org/rec/conf/acl/AgravanteKTMG23,Learning Neuro-Symbolic World Models with Conversational Proprioception.,ACL (2),2023
+https://dblp.org/rec/conf/ijcai/000223a,Reliable Neuro-Symbolic Abstractions for Planning and Learning.,IJCAI,2023
+https://dblp.org/rec/conf/nips/ChenCFHS23,Differentiable Neuro-Symbolic Reasoning on Large-Scale Knowledge Graphs.,NeurIPS,2023
+https://dblp.org/rec/conf/cvpr/HongLDCTG23,3D Concept Learning and Reasoning from Multi-View Images.,CVPR,2023
+https://dblp.org/rec/conf/aaai/HerronJ23,An Analysis of the Deliberation and Task Performance of an Active Logic Based Agent (Student Abstract).,AAAI,2023
+https://dblp.org/rec/conf/ijcai/CunningtonL0R23,Neuro-Symbolic Learning of Answer Set Programs from Raw Data.,IJCAI,2023
+https://dblp.org/rec/conf/ijcai/DemirN23,Neuro-Symbolic Class Expression Learning.,IJCAI,2023
+https://dblp.org/rec/conf/acl/PryorYLKRBG23,Using Domain Knowledge to Guide Dialog Structure Induction via Neural Probabilistic Soft Logic.,ACL (1),2023
+https://dblp.org/rec/conf/acl/OzturklerMWJ23,ThinkSum: Probabilistic reasoning over sets using large language models.,ACL (1),2023
+https://dblp.org/rec/conf/acl/NandiKSM23,Simple Augmentations of Logical Rules for Neuro-Symbolic Knowledge Graph Completion.,ACL (2),2023
+https://dblp.org/rec/conf/naacl/Prange0K22,Linguistic Frameworks Go Toe-to-Toe at Neuro-Symbolic Language Modeling.,NAACL-HLT,2022
+https://dblp.org/rec/journals/tacl/FengYZG22,Neuro-symbolic Natural Logic with Introspective Revision for Natural Language Inference.,Trans. Assoc. Comput. Linguistics,2022
+https://dblp.org/rec/conf/nips/AhmedTCBV22,Semantic Probabilistic Layers for Neuro-Symbolic Learning.,NeurIPS,2022
+https://dblp.org/rec/conf/nips/MisinoMS22,VAEL: Bridging Variational Autoencoders and Probabilistic Logic Programming.,NeurIPS,2022
+https://dblp.org/rec/conf/nips/ArakelyanHAGHR22,NS3: Neuro-symbolic Semantic Code Search.,NeurIPS,2022
+https://dblp.org/rec/conf/ijcai/LawBR22,Search Space Expansion for Efficient Incremental Inductive Logic Programming from Streamed Data.,IJCAI,2022
+https://dblp.org/rec/conf/nips/WuTWYLSL22,ZeroC: A Neuro-Symbolic Model for Zero-shot Concept Recognition and Acquisition at Inference Time.,NeurIPS,2022
+https://dblp.org/rec/conf/nips/YoungDB22,Neurosymbolic Deep Generative Models for Sequence Data with Relational Constraints.,NeurIPS,2022
+https://dblp.org/rec/conf/nips/Liang00022,Drawing out of Distribution with Neuro-Symbolic Generative Models.,NeurIPS,2022
+https://dblp.org/rec/conf/ijcai/MitchenerTCR22,"Detect, Understand, Act: A Neuro-Symbolic Hierarchical Reinforcement Learning Framework (Extended Abstract).",IJCAI,2022
+https://dblp.org/rec/conf/ijcai/Nunez-Molina22,Application of Neurosymbolic AI to Sequential Decision Making.,IJCAI,2022
+https://dblp.org/rec/conf/icml/GlanoisJFWZ0LH22,Neuro-Symbolic Hierarchical Rule Induction.,ICML,2022
+https://dblp.org/rec/conf/ijcai/XieKN22,Neuro-Symbolic Verification of Deep Neural Networks.,IJCAI,2022
+https://dblp.org/rec/conf/icml/0002XHSRN22,Neuro-Symbolic Language Modeling with Automaton-augmented Retrieval.,ICML,2022
+https://dblp.org/rec/conf/aaai/SenCRG22,Neuro-Symbolic Inductive Logic Programming with Logical Neural Networks.,AAAI,2022
+https://dblp.org/rec/conf/aaai/SahaJH22,Weakly Supervised Neuro-Symbolic Module Networks for Numerical Reasoning over Text.,AAAI,2022
+https://dblp.org/rec/conf/aaai/RajapakshaB22,"LIMREF: Local Interpretable Model Agnostic Rule-Based Explanations for Forecasting, with an Application to Electricity Smart Meter Data.",AAAI,2022
+https://dblp.org/rec/conf/aaai/VerreetDMR22,Inference and Learning with Model Uncertainty in Probabilistic Logic Programs.,AAAI,2022
+https://dblp.org/rec/conf/aaai/QuanW0YLDLZZLHH22,FORCE: A Framework of Rule-Based Conversational Recommender System.,AAAI,2022
+https://dblp.org/rec/conf/acl/YangZEL22,An Interpretable Neuro-Symbolic Reasoning Framework for Task-Oriented Dialogue Generation.,ACL (1),2022
+https://dblp.org/rec/conf/cvpr/KulalMA022,Programmatic Concept Learning for Human Motion Description and Synthesis.,CVPR,2022
+https://dblp.org/rec/conf/aaai/ChenHS22,Fuzzy Logic Based Logical Query Answering on Knowledge Graphs.,AAAI,2022
+https://dblp.org/rec/conf/aaai/CaiDCDL22,Mitigating Reporting Bias in Semi-supervised Temporal Commonsense Inference with Probabilistic Soft Logic.,AAAI,2022
+https://dblp.org/rec/conf/iclr/MeiMWGT22,"FALCON: Fast Visual Concept Learning by Integrating Images, Linguistic descriptions, and Conceptual Relations.",ICLR,2022
+https://dblp.org/rec/conf/iclr/YangC22,Safe Neurosymbolic Learning with Differentiable Symbolic Execution.,ICLR,2022
+https://dblp.org/rec/conf/nips/NyeTTL21,"Improving Coherence and Consistency in Neural Sequence Models with Dual-System, Neuro-Symbolic Reasoning.",NeurIPS,2021
+https://dblp.org/rec/conf/nips/SiuPCZLPCA21,Evaluation of Human-AI Teams for Learned and Rule-Based Agents in Hanabi.,NeurIPS,2021
+https://dblp.org/rec/conf/aaai/EicholtzMTR21,Heisenbot: A Rule-Based Game Agent for Gin Rummy.,AAAI,2021
+https://dblp.org/rec/conf/aaai/FeblowitzH0SSU21,IBM Scenario Planning Advisor: A Neuro-Symbolic ERM Solution.,AAAI,2021
+https://dblp.org/rec/conf/nips/WangZLW21,Scalable Rule-Based Representation Learning for Interpretable Classification.,NeurIPS,2021
+https://dblp.org/rec/conf/aaai/JiangB0STS21,Temporal-Logic-Based Reward Shaping for Continuing Reinforcement Learning Tasks.,AAAI,2021
+https://dblp.org/rec/conf/aaai/LangP21,Self-Supervised Self-Supervision by Combining Deep Learning and Probabilistic Logic.,AAAI,2021
+https://dblp.org/rec/conf/ijcai/TarzariolGS21,Lifting Symmetry Breaking Constraints with Inductive Logic Programming.,IJCAI,2021
+https://dblp.org/rec/conf/aaai/QuanY0XLDOTDLYJ21,Integrating Pre-trained Model into Rule-based Dialogue Management.,AAAI,2021
+https://dblp.org/rec/conf/aaai/BosselutBC21,Dynamic Neuro-Symbolic Knowledge Graph Construction for Zero-shot Commonsense Question Answering.,AAAI,2021
+https://dblp.org/rec/conf/ijcai/QiZCCXZZ21,Unsupervised Knowledge Graph Alignment by Probabilistic Reasoning and Semantic Embedding.,IJCAI,2021
+https://dblp.org/rec/conf/aaai/ArabshahiLGMAM21,Conversational Neuro-Symbolic Commonsense Reasoning.,AAAI,2021
+https://dblp.org/rec/conf/aaai/0002M021,Parameterized Complexity of Logic-Based Argumentation in Schaefer's Framework.,AAAI,2021
+https://dblp.org/rec/conf/aaai/ShindoNY21,Differentiable Inductive Logic Programming for Structured Examples.,AAAI,2021
+https://dblp.org/rec/conf/aaai/SinghMBM21,Neuro-Symbolic Techniques for Description Logic Reasoning (Student Abstract).,AAAI,2021
+https://dblp.org/rec/conf/icml/VedantamSNML21,CURI: A Benchmark for Productive Concept Learning Under Uncertainty.,ICML,2021
+https://dblp.org/rec/conf/cvpr/StammerSK21,Right for the Right Concept: Revising Neuro-Symbolic Concepts by Interacting With Their Explanations.,CVPR,2021
+https://dblp.org/rec/conf/iclr/FeinmanL21,Learning Task-General Representations with Generative Neuro-Symbolic Modeling.,ICLR,2021
+https://dblp.org/rec/conf/aaai/ZhouYHCCSP021,Clinical Temporal Relation Extraction with Probabilistic Soft Logic Regularization and Global Inference.,AAAI,2021
+https://dblp.org/rec/conf/iclr/PrabhudesaiLPTH21,Disentangling 3D Prototypical Networks for Few-Shot Concept Learning.,ICLR,2021
+https://dblp.org/rec/conf/nips/NieYMPZA20,Bongard-LOGO: A New Benchmark for Human-Level Concept Learning and Reasoning.,NeurIPS,2020
+https://dblp.org/rec/conf/nips/JiangA20,Generative Neurosymbolic Machines.,NeurIPS,2020
+https://dblp.org/rec/conf/nips/Inala0PPB0RS20,Neurosymbolic Transformers for Multi-Agent Communication.,NeurIPS,2020
+https://dblp.org/rec/conf/nips/Dang-Nhu20,PLANS: Neuro-Symbolic Program Learning from Videos.,NeurIPS,2020
+https://dblp.org/rec/conf/aaai/IbelingI20,Probabilistic Reasoning Across the Causal Hierarchy.,AAAI,2020
+https://dblp.org/rec/conf/nips/AndersonVDC20,Neurosymbolic Reinforcement Learning with Formally Verified Exploration.,NeurIPS,2020
+https://dblp.org/rec/conf/aaai/Kopparti20,Abstract Rule Based Pattern Learning with Neural Networks.,AAAI,2020
+https://dblp.org/rec/conf/ijcai/CropperDM20,Turning 30: New Ideas in Inductive Logic Programming.,IJCAI,2020
+https://dblp.org/rec/conf/aaai/LawRBB020,FastLAS: Scalable Inductive Logic Programming Incorporating Domain-Specific Optimisation Criteria.,AAAI,2020
+https://dblp.org/rec/conf/aaai/RostamiKPM20,Generative Continual Concept Learning.,AAAI,2020
+https://dblp.org/rec/conf/iclr/ZhangCYRLQS20,Efficient Probabilistic Logic Reasoning with Graph Neural Networks.,ICLR,2020
+https://dblp.org/rec/conf/icml/AmizadehPPHK20,"Neuro-Symbolic Visual Reasoning: Disentangling ""Visual"" from ""Reasoning"".",ICML,2020
+https://dblp.org/rec/conf/ijcai/RaedtDMM20,From Statistical Relational to Neuro-Symbolic Artificial Intelligence.,IJCAI,2020
+https://dblp.org/rec/conf/aaai/TsamouraGK20,Beyond the Grounding Bottleneck: Datalog Techniques for Inference in Probabilistic Logic Programs.,AAAI,2020
+https://dblp.org/rec/conf/aaai/SrinivasanFG20,BOWL: Bayesian Optimization for Weight Learning in Probabilistic Soft Logic.,AAAI,2020
+https://dblp.org/rec/conf/aaai/LyuYLY19,Logic-Based Sequential Decision-Making.,AAAI,2019
+https://dblp.org/rec/conf/aaai/CeruttiKKS19,Probabilistic Logic Programming with Beta-Distributed Random Variables.,AAAI,2019
+https://dblp.org/rec/conf/aaai/ChakrabortyDBGC19,Expert Guided Rule Based Prioritization of Scientifically Relevant Images for Downlinking over Limited Bandwidth from Planetary Orbiters.,AAAI,2019
+https://dblp.org/rec/conf/ijcai/NguyenR19,A Probabilistic Logic for Resource-Bounded Multi-Agent Systems.,IJCAI,2019
+https://dblp.org/rec/conf/nips/Qu019,Probabilistic Logic Neural Networks for Reasoning.,NeurIPS,2019
+https://dblp.org/rec/conf/icml/YoungBN19,Learning Neurosymbolic Generative Models via Program Synthesis.,ICML,2019
+https://dblp.org/rec/conf/nips/HanMGT019,Visual Concept-Metaconcept Learning.,NeurIPS,2019
+https://dblp.org/rec/conf/ijcai/Svatos19,Cautious Rule-Based Collective Inference.,IJCAI,2019
+https://dblp.org/rec/conf/iclr/MaoGKTW19,"The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision.",ICLR,2019
+https://dblp.org/rec/conf/aaai/Juba19,Polynomial-Time Probabilistic Reasoning with Partial Observations via Implicit Learning in Probability Logics.,AAAI,2019
+https://dblp.org/rec/conf/aaai/BockhorstCF19,Probabilistic-Logic Bots for Efficient Evaluation of Business Rules Using Conversational Interfaces.,AAAI,2019
+https://dblp.org/rec/conf/ijcai/Wachi19,Failure-Scenario Maker for Rule-Based Agent using Multi-agent Adversarial Reinforcement Learning and its Application to Autonomous Driving.,IJCAI,2019
+https://dblp.org/rec/conf/emnlp/WangP18,Deep Probabilistic Logic: A Unifying Framework for Indirect Supervision.,EMNLP,2018
+https://dblp.org/rec/conf/ijcai/LaurentYF18,Counterfactual Resimulation for Causal Analysis of Rule-Based Models.,IJCAI,2018
+https://dblp.org/rec/conf/nips/ManhaeveDKDR18,DeepProbLog: Neural Probabilistic Logic Programming.,NeurIPS,2018
+https://dblp.org/rec/conf/cvpr/BouritsasKZM18,Multimodal Visual Concept Learning With Weakly Supervised Techniques.,CVPR,2018
+https://dblp.org/rec/conf/ijcai/XuGZNWW18,Deep Multi-View Concept Learning.,IJCAI,2018
+https://dblp.org/rec/conf/acl/XuYZ18,Interactive Language Acquisition with One-shot Visual Concept Learning through a Conversational Game.,ACL (1),2018
+https://dblp.org/rec/conf/emnlp/SrivastavaLM17,Joint Concept Learning and Semantic Parsing from Natural Language Explanations.,EMNLP,2017
+https://dblp.org/rec/conf/aaai/DaviesGS17,Automatic Logic-Based Benders Decomposition with MiniZinc.,AAAI,2017
+https://dblp.org/rec/conf/aaai/Harrison-Trainor17,Preferential Structures for Comparative Probabilistic Reasoning.,AAAI,2017
+https://dblp.org/rec/journals/jmlr/BachBHG17,Hinge-Loss Markov Random Fields and Probabilistic Soft Logic.,J. Mach. Learn. Res.,2017
+https://dblp.org/rec/conf/aaai/WangLK17a,A Logic Based Approach to Answering Questions about Alternatives in DIY Domains.,AAAI,2017
+https://dblp.org/rec/conf/ijcai/Shalaginov17,"Fuzzy Logic Model for Digital Forensics: A Trade-off between Accuracy, Complexity and Interpretability.",IJCAI,2017
