@@ -57,13 +57,13 @@
      **Excluded** due to unclear applicability.  
 
 
--[LogicDP: Creating Labels for Graph Data via Inductive Logic Programming](https://openreview.net/pdf?id=2b2s9vd7wYv) (ICLR 2023):
+- [LogicDP: Creating Labels for Graph Data via Inductive Logic Programming](https://openreview.net/pdf?id=2b2s9vd7wYv) (ICLR 2023):
 
-**TASK:** Knowledge Graph Completion
-
-**TL;DR:** Uses ILP to refine rules used to create labels for incomplete graphs.
-
-**Excluded** as the task is evaluated on graph reasoning benchmarks that have been treated by more promising techniques in a clearer fashion.
+    **TASK:** Knowledge Graph Completion
+    
+    **TL;DR:** Uses ILP to refine rules used to create labels for incomplete graphs.
+    
+    **Excluded** as the task is evaluated on graph reasoning benchmarks that have been treated by more promising techniques in a clearer fashion.
 
 
 - [Globally-Consistent Rule-Based Summary-Explanations for Machine Learning Models: Application to Credit-Risk Evaluation](https://jmlr.org/papers/volume24/21-0488/21-0488.pdf) (J. Mach. Learn. Res.,2023):
