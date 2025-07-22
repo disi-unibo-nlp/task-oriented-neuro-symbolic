@@ -56,7 +56,7 @@
 
     **TL;DR:** The model extracts patterns using encoders and employs a teacher-student network to estimate three latent variables: image manipulation, cross-modal inconsistency, and image repurposing.
 
-- [Differentiable Neuro-Symbolic Reasoning on Large-Scale Knowledge Graphs](https://proceedings.neurips.cc/paper_files/paper/2023/file/5965f3a748a8d41415db2bfa44635cc3-Paper-Conference.pdf) (NeurIPS 2023)
+- [Differentiable Neuro-Symbolic Reasoning on Large-Scale Knowledge Graphs](https://proceedings.neurips.cc/paper_files/paper/2023/file/5965f3a748a8d41415db2bfa44635cc3-Paper-Conference.pdf) (NeurIPS 2023):
 
     **TASK:** KG reasoning
 
@@ -65,7 +65,7 @@
     **Excluded** as more recent techniques are treated for the same task with intersection on the employed benchmark datasets. Furthermore, the complexity of the algorithm, requiring a two-step expectation maximization technique is another reason to exclude it in the comparison with other models.
     
 
-- [Simple Augmentations of Logical Rules for Neuro-Symbolic Knowledge Graph Completion.](https://aclanthology.org/2023.acl-short.23.pdf) (ACL 2023)
+- [Simple Augmentations of Logical Rules for Neuro-Symbolic Knowledge Graph Completion.](https://aclanthology.org/2023.acl-short.23.pdf) (ACL 2023):
 
     **TASK:** KG reasoning
 
@@ -261,7 +261,7 @@
     **Excluded** as more recent shielding techniques have been found.
 
 
-- [BOWL: Bayesian Optimization for Weight Learning in Probabilistic Soft Logic](https://ojs.aaai.org/index.php/AAAI/article/view/6589) (AAAI 2020)
+- [BOWL: Bayesian Optimization for Weight Learning in Probabilistic Soft Logic](https://ojs.aaai.org/index.php/AAAI/article/view/6589) (AAAI 2020):
 
     **TASK:** Reasoning on a Knowledge Base
 
