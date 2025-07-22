@@ -39,7 +39,7 @@
 
   **TL;DR:** Combines neural span alignment and NLI operator assignment with a symbolic automaton for veracity prediction and justification.  
 
-- [NeuSTIP: A Neuro-Symbolic Model for Link and Time Prediction in Temporal Knowledge Graphs](https://aclanthology.org/2023.emnlp-main.274.pdf) (EMNLP 2023)
+- [NeuSTIP: A Neuro-Symbolic Model for Link and Time Prediction in Temporal Knowledge Graphs](https://aclanthology.org/2023.emnlp-main.274.pdf) (EMNLP 2023):
      
      **TASK:** temporal knowledge graph reasoning
 
@@ -57,16 +57,16 @@
      **Excluded** due to unclear applicability.  
 
 
--[LogicDP: Creating Labels for Graph Data via Inductive Logic Programming](https://openreview.net/pdf?id=2b2s9vd7wYv) (ICLR 2023)
+-[LogicDP: Creating Labels for Graph Data via Inductive Logic Programming](https://openreview.net/pdf?id=2b2s9vd7wYv) (ICLR 2023):
 
-     **TASK:** Knowledge Graph Completion
+**TASK:** Knowledge Graph Completion
 
-     **TL;DR:** Uses ILP to refine rules used to create labels for incomplete graphs.
+**TL;DR:** Uses ILP to refine rules used to create labels for incomplete graphs.
 
-     **Excluded** as the task is evaluated on graph reasoning benchmarks that have been treated by more promising techniques in a clearer fashion.
+**Excluded** as the task is evaluated on graph reasoning benchmarks that have been treated by more promising techniques in a clearer fashion.
 
 
-- [Globally-Consistent Rule-Based Summary-Explanations for Machine Learning Models: Application to Credit-Risk Evaluation](https://jmlr.org/papers/volume24/21-0488/21-0488.pdf) (J. Mach. Learn. Res.,2023)
+- [Globally-Consistent Rule-Based Summary-Explanations for Machine Learning Models: Application to Credit-Risk Evaluation](https://jmlr.org/papers/volume24/21-0488/21-0488.pdf) (J. Mach. Learn. Res.,2023):
 
      **TASK:** Credit-Risk Evaluation
 
@@ -75,7 +75,7 @@
      **Excluded** as this is a method for post-hoc explainability.
 
 
-- [Sequential Recommendation with Probabilistic Logical Reasoning](https://www.ijcai.org/proceedings/2023/0270.pdf) (IJCAI 2023)
+- [Sequential Recommendation with Probabilistic Logical Reasoning](https://www.ijcai.org/proceedings/2023/0270.pdf) (IJCAI 2023):
 
      **TASK:** Sequential Recommendation
 
@@ -85,7 +85,7 @@
 
 
 
-- [Neuron Dependency Graphs: A Causal Abstraction of Neural Networks](https://proceedings.mlr.press/v162/hu22b/hu22b.pdf) (ICML 2022)
+- [Neuron Dependency Graphs: A Causal Abstraction of Neural Networks](https://proceedings.mlr.press/v162/hu22b/hu22b.pdf) (ICML 2022):
 
      **TASK** Image Classification, Sentiment Analysis and Natural Language Inference
 
@@ -134,7 +134,7 @@
      high popularity of modern LLMs which use attention-based encoder-decoder architectures.
 
 
-- [Search Space Expansion for Efficient Incremental Inductive Logic Programming from Streamed Data](https://www.ijcai.org/proceedings/2022/0374.pdf) (IJCAI 2022)
+- [Search Space Expansion for Efficient Incremental Inductive Logic Programming from Streamed Data](https://www.ijcai.org/proceedings/2022/0374.pdf) (IJCAI 2022):
 
      **TASK:** Inductive Logic Programming
 
@@ -143,7 +143,7 @@
      **Excluded** as evaluation is carried out on ILP-specific benchmarks only, with performance evaluation relative to runtime efficiency. 
 
 
-- [Lifting Symmetry Breaking Constraints with Inductive Logic Programming](https://www.ijcai.org/proceedings/2021/0284.pdf) (IJCAI 2021)
+- [Lifting Symmetry Breaking Constraints with Inductive Logic Programming](https://www.ijcai.org/proceedings/2021/0284.pdf) (IJCAI 2021):
 
      **TASK** Combinatorial Search
 
@@ -171,7 +171,7 @@
      **Excluded** as performance evaluation is performed against ancient models such as SVMs over a plethora of dataset that don't have much in common.
 
 
-- [Dynamic Neuro-Symbolic Knowledge Graph Construction for Zero-shot Commonsense Question Answering](https://arxiv.org/pdf/1911.03876) (AAAI 2021)
+- [Dynamic Neuro-Symbolic Knowledge Graph Construction for Zero-shot Commonsense Question Answering](https://arxiv.org/pdf/1911.03876) (AAAI 2021):
 
      **TASK:** Commonsense reasoning (Multiple-choice QA)
 
